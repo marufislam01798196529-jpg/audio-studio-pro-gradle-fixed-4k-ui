@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">X-THREX</string>
+    <string name="app_tagline">Mobile AI Coding Agent &amp; Cloud IDE</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_projects">Projects</string>
+    <string name="nav_chat">AI Chat</string>
+    <string name="nav_tasks">Tasks</string>
+    <string name="nav_settings">Settings</string>
+    <string name="action_new_project">New Project</string>
+    <string name="action_recreate_app">Recreate Existing App</string>
+    <string name="action_upload_source">Upload Source Code</string>
+    <string name="action_upload_apk">Upload APK</string>
+    <string name="action_open_project">Open Project</string>
+    <string name="action_connect_api">Connect API</string>
+    <string name="action_download_zip">DOWNLOAD PROJECT ZIP</string>
+    <string name="action_start_coding">Start Coding</string>
+    <string name="action_fix_all">FIX ALL DETECTED ISSUES</string>
+    <string name="action_ask_ai_error">ASK AI ABOUT THIS ERROR</string>
+    <string name="notification_channel_tasks_name">AI Coding Tasks</string>
+    <string name="notification_channel_tasks_desc">Progress and completion alerts for AI coding tasks and project analysis</string>
+    <string name="notification_channel_builds_name">Cloud APK Builds</string>
+    <string name="notification_channel_builds_desc">Status, error alerts, and download notifications for remote Android builds</string>
+</resources>
